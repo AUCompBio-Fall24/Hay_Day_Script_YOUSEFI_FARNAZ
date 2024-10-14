@@ -7,6 +7,9 @@ Dating all the way back to 1947, students who served in **WWII** were returning 
 
 ## Read more about the tradition [Hey Day](http://sga.auburn.edu/hey-day/).
 
+
+## 🎉 Hey Day Script 🎉
+
 #!/bin/bash
 
 ## Prompt users to enter their name
