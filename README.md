@@ -14,6 +14,7 @@ Dating all the way back to 1947, students who served in **WWII** were returning 
 
 ## Prompt users to enter their name
 echo "Cheers to Hey Day! Please enter your name"
+
 read name
 
 ## Greet user
