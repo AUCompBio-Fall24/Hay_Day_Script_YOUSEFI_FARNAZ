@@ -30,5 +30,4 @@ Farnaz
 
 Hey Farnaz! Happy Hey Day
 
-farnazs-MacBook-Pro:Hey_Day farnazyousefi$ nano hey_day.sh 
 
