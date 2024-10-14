@@ -19,3 +19,16 @@ read name
 
 ## Greet user
 echo "Hey $name! Happy Hey Day"
+
+## Example of output
+
+farnazs-MacBook-Pro:Hey_Day farnazyousefi$ ./hey_day.sh
+
+Cheers to Hey Day! Please enter your name
+
+Farnaz
+
+Hey Farnaz! Happy Hey Day
+
+farnazs-MacBook-Pro:Hey_Day farnazyousefi$ nano hey_day.sh 
+
